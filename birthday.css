@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@300&display=swap");
+body{
+    font-family: 'Lato', sans-serif;
+   color:lawngreen;
+  
+   background-color: black;
+    font-size: 25px;
+    
+
+}
+
+.username{
+    background-color: black;
+    color: red;
+    margin: 2rem;
+   
+}
+.phonenumber{
+    background-color: black;
+    color: red;
+    margin: 2rem;
+  
+}
+.container{
+   
+    border: 5px solid lawngreen;
+}
+.form{
+    background-image: url(https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif);
+background-size: 800px  300px;
+   background-repeat: no-repeat;
+}
+
+#container{
+    background-image: url(https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif);
+    background-size:600px 750px;
+    background-repeat: no-repeat;
+}
+.hack{
+    background-color: lawngreen;
+    color: black;
+}
